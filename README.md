@@ -1,2 +1,0 @@
-# JavascriptAgarIODemo
-Created with CodeSandbox
