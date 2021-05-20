@@ -1,5 +1,3 @@
-import "./styles.css";
-
 const gridWidth = 20;
 const width = 800;
 const height = 800;
